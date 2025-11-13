@@ -36,7 +36,7 @@
     font-size: 1.2em;
     color: #ffde59;
   }
-  .pinyin, .categoria {
+  .pinyin, .traduzione {
     font-style: italic;
     color: #facf5a;
   }
@@ -45,14 +45,14 @@
 <body>
 
 <h1>Ricerca Vocabolario Cinese</h1>
-<input type="text" id="search" placeholder="Digita termine o definizione..." />
+<input type="text" id="search" placeholder="Digita termine o traduzione..." />
 
 <div id="results"><p>Caricamento dati...</p></div>
 
 <script>
   let vocabolario = [];
 
-  // Carica il file JSON locale
+  // Carica il file JSON locale vocabolario_cinese_100.json
   fetch('vocabolario_cinese_100.json')
     .then(res => res.json())
     .then(data => {
@@ -70,9 +70,9 @@
       document.getElementById('results').innerHTML = '<p>Inserisci testo per cercare...</p>';
       return;
     }
-    const filtered = vocabolario.filter(item => 
+    const filtered = vocabolario.filter(item =>
       item.termine.toLowerCase().includes(query) ||
-      (item.definizione && item.definizione.toLowerCase().includes(query))
+      (item.traduzione && item.traduzione.toLowerCase().includes(query))
     );
     if (filtered.length === 0) {
       document.getElementById('results').innerHTML = '<p>Nessun risultato trovato</p>';
@@ -82,8 +82,7 @@
       <div class="entry">
         <div class="term">${item.termine}</div>
         <div class="pinyin">${item.pinyin || ''}</div>
-        <div class="categoria">${item.categoria || ''}</div>
-        <div class="definizione">${item.definizione || ''}</div>
+        <div class="traduzione">${item.traduzione || ''}</div>
       </div>
     `).join('');
     document.getElementById('results').innerHTML = html;
