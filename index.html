@@ -52,8 +52,8 @@
 <script>
   let vocabolario = [];
 
-  // Carica il file JSON locale vocabolario_cinese_100.json
-  fetch('vocabolario_cinese_100.json')
+  // Carica il file JSON locale vocabolario_cinese_100.json con cache buster
+  fetch('vocabolario_cinese_100.json?v=' + new Date().getTime())
     .then(res => res.json())
     .then(data => {
       vocabolario = data;
