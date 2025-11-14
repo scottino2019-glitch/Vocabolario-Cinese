@@ -59,7 +59,7 @@
   {"termine":"水","pinyin":"shuǐ","traduzione":"acqua"},
   {"termine":"茶","pinyin":"chá","traduzione":"tè"},
   {"termine":"饭","pinyin":"fàn","traduzione":"riso cotto, pasto"},
-  {"termine":"水果","pinyin":"shuǐguǒ","traduzione":"frutta"}
+  {"termine":"水果","pinyin":"shuǐguǒ","traduzione":"frutta"}，
 
   {"termine":"早上","pinyin":"zǎoshang","traduzione":"mattina presto"},
   {"termine":"晚上","pinyin":"wǎnshàng","traduzione":"sera"},
@@ -88,7 +88,7 @@
   {"termine":"药店","pinyin":"yàodiàn","traduzione":"farmacia"},
   {"termine":"银行","pinyin":"yínháng","traduzione":"banca"},
   {"termine":"邮局","pinyin":"yóujú","traduzione":"ufficio postale"},
-  {"termine":"火车站","pinyin":"huǒchēzhàn","traduzione":"stazione ferroviaria"}
+  {"termine":"火车站","pinyin":"huǒchēzhàn","traduzione":"stazione ferroviaria"}，
 
   {"termine":"跑","pinyin":"pǎo","traduzione":"correre"},
   {"termine":"跳","pinyin":"tiào","traduzione":"saltare"},
@@ -105,8 +105,17 @@
   {"termine":"说话","pinyin":"shuō huà","traduzione":"parlare"},
   {"termine":"去","pinyin":"qù","traduzione":"andare"},
   {"termine":"回来","pinyin":"huílái","traduzione":"tornare"},
+{"termine":"儿子","pinyin":"èr zi","traduzione":"figlio"},
+{"termine":"米","pinyin":"mǐ","traduzione":"riso"}，
+{"termine":"力","pinyin":"lì","traduzione”:"forza"}，
+{"termine":"女","pinyin":"nǔ","traduzione":"femminile"}，
+{"termine":"木","pinyin":"mù","traduzione":"legno"}，
+{"termine":"马","pinyin":"mǎ","traduzione":"cavallo"}，
+{"termine":"口","pinyin":"kǒu","traduzione":"bocca"}，
+{"termine":"汉语","pinyin":"hànyǔ","traduzione":"lingua cinese"}，
+{"termine":"课","pinyin":"kè","traduzione":"lezione"}，
+{"termine":"现在","pinyin":"xiàzaì","traduzione":"adesso"}
 
-  {"termine":"儿子","pinyin":"èr zi","traduzione":"figlio"}
 
 
 ]
