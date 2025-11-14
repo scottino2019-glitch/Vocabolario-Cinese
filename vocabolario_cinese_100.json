@@ -161,5 +161,8 @@
   {"termine":"前面","pinyin":"qiánmiàn","traduzione":"davanti"},
   {"termine":"后面","pinyin":"hòumiàn","traduzione":"dietro"},
   {"termine":"左边","pinyin":"zuǒbiān","traduzione":"a sinistra"},
-  {"termine":"右边","pinyin":"yòubiān","traduzione":"a destra"}
+  {"termine":"右边","pinyin":"yòubiān","traduzione":"a destra"},
+  {"termine":"安静","pinyin":"ànjìng","traduzione":"（agg）tranquillo，silenzioso"},
+{"termine":"请","pinyin":"qìng","traduzione":"invitare"},
+{"termine":"下课","pinyin":"xíakè","traduzione":"finire la lezione"}
 ]
