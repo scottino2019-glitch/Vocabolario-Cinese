@@ -60,4 +60,52 @@
   {"termine":"茶","pinyin":"chá","traduzione":"tè"},
   {"termine":"饭","pinyin":"fàn","traduzione":"riso cotto, pasto"},
   {"termine":"水果","pinyin":"shuǐguǒ","traduzione":"frutta"}
+
+  {"termine":"早上","pinyin":"zǎoshang","traduzione":"mattina presto"},
+  {"termine":"晚上","pinyin":"wǎnshàng","traduzione":"sera"},
+  {"termine":"天气预报","pinyin":"tiānqì yùbào","traduzione":"previsioni meteo"},
+  {"termine":"手机","pinyin":"shǒujī","traduzione":"telefono cellulare"},
+  {"termine":"电脑","pinyin":"diànnǎo","traduzione":"computer"},
+  {"termine":"书","pinyin":"shū","traduzione":"libro"},
+  {"termine":"桌子","pinyin":"zhuōzi","traduzione":"tavolo"},
+  {"termine":"椅子","pinyin":"yǐzi","traduzione":"sedia"},
+  
+  {"termine":"运动","pinyin":"yùndòng","traduzione":"sport"},
+  {"termine":"跑步","pinyin":"pǎobù","traduzione":"correre"},
+  {"termine":"游泳","pinyin":"yóuyǒng","traduzione":"nuotare"},
+  {"termine":"跳舞","pinyin":"tiàowǔ","traduzione":"ballare"},
+  {"termine":"电影","pinyin":"diànyǐng","traduzione":"film"},
+  {"termine":"音乐","pinyin":"yīnyuè","traduzione":"musica"},
+  {"termine":"旅行","pinyin":"lǚxíng","traduzione":"viaggiare"},
+  {"termine":"城市","pinyin":"chéngshì","traduzione":"città"},
+  {"termine":"公园","pinyin":"gōngyuán","traduzione":"parco"},
+  {"termine":"商店","pinyin":"shāngdiàn","traduzione":"negozio"},
+  {"termine":"饭店","pinyin":"fàndiàn","traduzione":"ristorante"},
+  {"termine":"咖啡","pinyin":"kāfēi","traduzione":"caffè"},
+  {"termine":"茶馆","pinyin":"cháguǎn","traduzione":"tè"},
+  {"termine":"水果店","pinyin":"shuǐguǒ diàn","traduzione":"fruttaio"},
+  {"termine":"医院","pinyin":"yīyuàn","traduzione":"ospedale"},
+  {"termine":"药店","pinyin":"yàodiàn","traduzione":"farmacia"},
+  {"termine":"银行","pinyin":"yínháng","traduzione":"banca"},
+  {"termine":"邮局","pinyin":"yóujú","traduzione":"ufficio postale"},
+  {"termine":"火车站","pinyin":"huǒchēzhàn","traduzione":"stazione ferroviaria"}
+
+  {"termine":"跑","pinyin":"pǎo","traduzione":"correre"},
+  {"termine":"跳","pinyin":"tiào","traduzione":"saltare"},
+  {"termine":"睡觉","pinyin":"shuìjiào","traduzione":"dormire"},
+  {"termine":"吃饭","pinyin":"chīfàn","traduzione":"mangiare"},
+  {"termine":"喝水","pinyin":"hē shuǐ","traduzione":"bere acqua"},
+  {"termine":"学习","pinyin":"xuéxí","traduzione":"studiare"},
+  {"termine":"工作","pinyin":"gōngzuò","traduzione":"lavorare"},
+  {"termine":"读书","pinyin":"dú shū","traduzione":"leggere"},
+  {"termine":"写字","pinyin":"xiězì","traduzione":"scrivere"},
+  {"termine":"看电视","pinyin":"kàn diànshì","traduzione":"guardare la TV"},
+  {"termine":"听音乐","pinyin":"tīng yīnyuè","traduzione":"ascoltare musica"},
+  {"termine":"买东西","pinyin":"mǎi dōngxi","traduzione":"comprare cose"},
+  {"termine":"说话","pinyin":"shuō huà","traduzione":"parlare"},
+  {"termine":"去","pinyin":"qù","traduzione":"andare"},
+  {"termine":"回来","pinyin":"huílái","traduzione":"tornare"}
+
+
+
 ]
