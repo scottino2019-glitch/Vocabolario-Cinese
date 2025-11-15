@@ -73,6 +73,8 @@
     const filtered = vocabolario.filter(item =>
       item.termine.toLowerCase().includes(query) ||
       (item.traduzione && item.traduzione.toLowerCase().includes(query))
+ (item.pinyin && item.pinyin.toLowerCase().includes(query))
+);
     );
     if (filtered.length === 0) {
       document.getElementById('results').innerHTML = '<p>Nessun risultato trovato</p>';
