@@ -175,4 +175,22 @@
 {"termine":"缸","pinyin":"gāng","traduzione":"grande vaso; cisterna; anfora"},
 {"termine":"棉","pinyin":"mián","traduzione":"cotone"},
 {"termine":"线","pinyin":"xiàn","traduzione":"filo; linea; corda"}
+{"termine":"网","pinyin":"wǎng","traduzione":"rete; ragnatela; internet"},
+{"termine":"丝","pinyin":"sī","traduzione":"seta; filo sottile; filo"},
+{"termine":"衣","pinyin":"yī","traduzione":"vestito; abito; indumento"},
+{"termine":"皮","pinyin":"pí","traduzione":"pelle; cuoio; buccia; scorza"},
+{"termine":"鞋","pinyin":"xié","traduzione":"scarpa"},
+{"termine":"布","pinyin":"bù","traduzione":"stoffa; tessuto; distribuire"},
+{"termine":"吐","pinyin":"tǔ","traduzione":"sputare; vomitare; espellere"},
+{"termine":"吞","pinyin":"tūn","traduzione":"inghiottire; divorare"},
+{"termine":"擦","pinyin":"cā","traduzione":"strofinare; pulire; lucidare"},
+{"termine":"贴","pinyin":"tiē","traduzione":"attaccare; incollare; applicare"},
+{"termine":"丢","pinyin":"diū","traduzione":"perdere; gettare; buttare via"},
+{"termine":"捡","pinyin":"jiǎn","traduzione":"raccogliere; prendere da terra"},
+{"termine":"去","pinyin":"qù","traduzione":"andare; partire; lasciare"},
+{"termine":"买","pinyin":"mǎi","traduzione":"comprare; acquistare"}, {"termine":"奶奶","pinyin":"nǎinai","traduzione":"nonna paterna"},
+{"termine":"哥哥","pinyin":"gēge","traduzione":"fratello maggiore"},
+ {"termine":"弟弟","pinyin":"dìdi","traduzione":"fratello minore"},
+  {"termine":"英国","pinyin":"Yīngguó","traduzione":"Regno Unito; Inghilterra"},
+  {"termine":"美国","pinyin":"Měiguó","traduzione":"Stati Uniti; America"}
 ]
