@@ -341,5 +341,15 @@
   {"termine":"北京","pinyin":"Běijīng","traduzione":"Pechino"},
   {"termine":"伦敦","pinyin":"Lúndūn","traduzione":"Londra"},
   {"termine":"罗马","pinyin":"Luómǎ","traduzione":"Roma"},
-  {"termine":"米兰","pinyin":"Mǐlán","traduzione":"Milano"}
+  {"termine":"米兰","pinyin":"Mǐlán","traduzione":"Milano"},
+{"termine":"土","pinyin":"tǔ","traduzione":"terra; suolo"},
+  {"termine":"方","pinyin":"fāng","traduzione":"quadrato; direzione; metodo"},
+  {"termine":"圆","pinyin":"yuán","traduzione":"rotondo; cerchio"},
+  {"termine":"尖","pinyin":"jiān","traduzione":"punta; appuntito; affilato"},
+  {"termine":"山","pinyin":"shān","traduzione":"montagna; collina"},
+  {"termine":"高","pinyin":"gāo","traduzione":"alto; elevato"},
+  {"termine":"长","pinyin":"cháng","traduzione":"lungo; duraturo"},
+  {"termine":"刀","pinyin":"dāo","traduzione":"coltello; lama"},
+  {"termine":"勺","pinyin":"sháo","traduzione":"cucchiaio; mestolo"},
+  {"termine":"竹","pinyin":"zhú","traduzione":"bambù"}
 ]
