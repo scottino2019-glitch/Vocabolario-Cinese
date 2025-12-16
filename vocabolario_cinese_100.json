@@ -56,7 +56,7 @@
   {"termine":"天气","pinyin":"tiānqì","traduzione":"tempo atmosferico"},
   {"termine":"好吃","pinyin":"hǎochī","traduzione":"delizioso"},
   {"termine":"水","pinyin":"shuǐ","traduzione":"acqua"},
-  {"termine":"茶","pinyin":"chá","traduzione":"tè"},
+  {"termine":"茶","pinyin":"chá","traduzione":"thé"},
   {"termine":"饭","pinyin":"fàn","traduzione":"riso cotto, pasto"},
   {"termine":"水果","pinyin":"shuǐguǒ","traduzione":"frutta"},
   {"termine":"早上","pinyin":"zǎoshang","traduzione":"mattina presto"},
@@ -383,7 +383,7 @@
   {"termine":"住","pinyin":"zhù","traduzione":"abitare"},
  
   {"termine":"高兴","pinyin":"gāoxìng","traduzione":"felice; contento"},
-  {"termine":"买","pinyin":"mǎi","traduzione":"comprare"},
+ 
   {"termine":"医生","pinyin":"yīshēng","traduzione":"medico"},
   {"termine":"哪儿","pinyin":"nǎ'er","traduzione":"dove"},
   {"termine":"名字","pinyin":"míngzi","traduzione":"nome"},
