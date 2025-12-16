@@ -35,7 +35,7 @@
   {"termine":"不","pinyin":"bù","traduzione":"non (negazione)"},
   {"termine":"很","pinyin":"hěn","traduzione":"molto (avverbio)"},
   {"termine":"也","pinyin":"yě","traduzione":"anche"},
-  {"termine":"在","pinyin":"zài","traduzione":"essere a, stare in"},
+  
   {"termine":"这","pinyin":"zhè","traduzione":"questo"},
   {"termine":"那","pinyin":"nà","traduzione":"quello"},
   {"termine":"是","pinyin":"shì","traduzione":"essere"},
@@ -133,7 +133,7 @@
   {"termine":"杯子","pinyin":"bēizi","traduzione":"bicchiere, tazza"},
   {"termine":"衣服","pinyin":"yīfu","traduzione":"vestiti"},
   {"termine":"帽子","pinyin":"màozi","traduzione":"cappello"},
-  {"termine":"鞋","pinyin":"xié","traduzione":"scarpe"},
+  
   {"termine":"钱","pinyin":"qián","traduzione":"denaro"},
   {"termine":"东西","pinyin":"dōngxi","traduzione":"cose, oggetti"},
   {"termine":"颜色","pinyin":"yánsè","traduzione":"colore"},
@@ -214,7 +214,7 @@
   {"termine":"寒","pinyin":"hán","traduzione":"freddo, gelido"},
 {"termine":"群","pinyin":"qún","traduzione":"gruppo"},
   {"termine":"之间","pinyin":"zhī jiān","traduzione":"tra, fra"},
-  {"termine":"没有","pinyin":"méiyǒu","traduzione":"non avere, non c'è"},
+  
   {"termine":"只","pinyin":"zhǐ","traduzione":"solo, soltanto"},
   {"termine":"鸟儿","pinyin":"niǎor","traduzione":"uccello"},
   {"termine":"飞过","pinyin":"fēiguò","traduzione":"volare oltre, volare sopra"},
@@ -251,7 +251,7 @@
   {"termine":"平","pinyin":"píng","traduzione":"piano; piatto"},
   {"termine":"明","pinyin":"míng","traduzione":"chiaro; luminoso"},
   {"termine":"寻","pinyin":"xún","traduzione":"cercare"},
-  {"termine":"白","pinyin":"bái","traduzione":"bianco"},
+  
   {"termine":"羽","pinyin":"yǔ","traduzione":"piuma; penna"},
   {"termine":"没","pinyin":"mò","traduzione":"affondare; inserirsi"},
   {"termine":"在","pinyin":"zài","traduzione":"essere; stare; trovarsi"},
@@ -289,7 +289,7 @@
   {"termine":"流","pinyin":"liú","traduzione":"scorrere"},
   {"termine":"欲","pinyin":"yù","traduzione":"desiderare, volere"},
   {"termine":"穷","pinyin":"qióng","traduzione":"estremo, finire"},
-  {"termine":"千","pinyin":"qiān","traduzione":"mille"},
+  
   {"termine":"里","pinyin":"lǐ","traduzione":"li (unità di distanza), dentro"},
   {"termine":"目","pinyin":"mù","traduzione":"occhio, vista"},
   {"termine":"更","pinyin":"gèng","traduzione":"ancora, di più"},
@@ -312,7 +312,7 @@
   {"termine":"谁","pinyin":"shuí","traduzione":"chi"},
   {"termine":"辛苦","pinyin":"xīnkǔ","traduzione":"faticoso; fatica"},
   {"termine":"甜","pinyin":"tián","traduzione":"dolce"},
-{"termine":"安静","pinyin":"āinjing","traduzione":"agg.tranquillo, silenzioso"},
+
 {"termine":"上课","pinyin":"shàngkè","traduzione":"v.fare lezione,seguire una lezione"},
 {"termine":"休息","pinyin":"xiūxi","traduzione":"v. riposare"}, {"termine":"耳","pinyin":"ěr","traduzione":"orecchio"},
   {"termine":"笔","pinyin":"bǐ","traduzione":"penna; matita; strumento da scrittura"},
