@@ -52,16 +52,22 @@
 <script>
   let vocabolario = [];
 
-  // Carica il file JSON locale vocabolario_cinese_100.json con cache buster
-  fetch('vocabolario_cinese_100.json?v=' + new Date().getTime())
-    .then(res => res.json())
+  // Carica il file JSON locale vocabolario.json con cache buster
+  fetch('vocabolario.json?v=' + Date.now())
+    .then(res => {
+      if (!res.ok) {
+        throw new Error('HTTP ' + res.status);
+      }
+      return res.json();
+    })
     .then(data => {
       vocabolario = data;
       document.getElementById('results').innerHTML = '<p>Inserisci testo per cercare...</p>';
+      console.log('Vocabolario caricato:', vocabolario.length, 'voci');
     })
     .catch(err => {
       document.getElementById('results').innerHTML = '<p>Errore nel caricamento dei dati</p>';
-      console.error(err);
+      console.error('Errore fetch vocabolario.json:', err);
     });
 
   document.getElementById('search').addEventListener('input', e => {
@@ -73,7 +79,7 @@
     const filtered = vocabolario.filter(item =>
       item.termine.toLowerCase().includes(query) ||
       (item.traduzione && item.traduzione.toLowerCase().includes(query)) ||
-(item.pinyin && item.pinyin.toLowerCase().includes(query))
+      (item.pinyin && item.pinyin.toLowerCase().includes(query))
     );
     if (filtered.length === 0) {
       document.getElementById('results').innerHTML = '<p>Nessun risultato trovato</p>';
