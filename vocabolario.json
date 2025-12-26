@@ -415,7 +415,10 @@
   {"termine":"课程","pinyin":"kè chéng","traduzione":"corso"},
   {"termine":"作业","pinyin":"zuòyé","traduzione":"compiti"},
   {"termine":"课堂","pinyin":"kètáng","traduzione":"classe"},
-  {"termine":"教育","pinyin":"jiàoyù","traduzione":"educazione"}
+  {"termine":"教育","pinyin":"jiàoyù","traduzione":"educazione"},
+{"termine":"酒店","pinyin":"jiǔ diàn","traduzione":"Hotel"},
+{"termine":"商场","pinyin":"shāng chǎng","traduzione":"Centro commerciale"}
+
 ]
 
 
